@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hugo Chagas
 - 👀 I’m interested in a position in the web development field
 - 🌱 I’m currently learning JavaScript and Node.js
-- 📫 WhatsApp me +447450599950 (UK) or drop me an email -> hugochagasuk@gmail.com
+- 📫 <a href='https://wa.me/447450599950' target="_blank">WhatsApp me</a> or drop me an <a href='mailto:hugochagasuk@gmail.com' target="_blank">email</a>
 - Access <a href='https://h-chagas.github.io/hugo-portfolio/'>my portfolio</a>
 
 <!---
