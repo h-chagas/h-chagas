@@ -2,7 +2,7 @@
 - 👀 I’m interested in a position in the web development field
 - 🌱 I’m currently learning JavaScript and Node.js
 - 📫 WhatsApp me +447450599950 (UK) or drop me an email -> hugochagasuk@gmail.com
-- Access my portfolio <a href='https://h-chagas.github.io/hugo-portfolio/'>
+- Access <a href='https://h-chagas.github.io/hugo-portfolio/'>my portfolio</a>
 
 <!---
 h-chagas/h-chagas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
