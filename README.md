@@ -8,14 +8,14 @@ I’m interested in a position in the web/ software development field as Junior/
 </br>
 Features:
 </br>
--  Access some of my front-end ReactJS projects completed in the RocketSeat academy:
+Access some of my front-end ReactJS projects completed in the RocketSeat academy:
 </br>
 -  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01">To-do list</a>
 </br>
 -  <a href="https://feedback-widget-wine.vercel.app/">Feedback widget</a>
 </br>
 </br>
--Also, check my freelance works. Nice websites built using HTML, CSS and Vanilla Javascript:
+Also, check my freelance works. Nice websites built using HTML, CSS and Vanilla Javascript:
 </br>
 - <a href='https://www.newpioneersproject.co.uk/' target='_blank'>New Pioneers Project</a>. Application built to a special project from Rochdale Council and Rochdale Borough Housing.
 - </br>
