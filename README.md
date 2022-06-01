@@ -1,6 +1,6 @@
 👋 Hi, I’m Hugo Chagas
 </br>
-I’m interested in a position in the web/ software development field as Junior/Apprentice ReactJS developer (For sure, I am also capable to learn other framework :) ). I’m currently learning NodeJS. I am already adept of HTML and CSS.
+I’m interested in a position in the web/ software development field as Junior/Apprentice ReactJS developer (For sure, I am also capable to learn other framework :) ). I’m currently learning NodeJS. I am already adept of JavaScript, HTML and CSS.
 </br>
 📫 <a href='https://wa.me/447450599950'>WhatsApp me</a> or drop me an <a href='mailto:hugochagasuk@gmail.com'>email</a>
 </br>
