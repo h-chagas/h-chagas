@@ -10,9 +10,9 @@ Features:
 </br>
 Access some of my front-end ReactJS projects completed in the RocketSeat academy:
 </br>
--  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01">To-do list</a>
+-  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01" target='_blank'>To-do list</a>
 </br>
--  <a href="https://feedback-widget-wine.vercel.app/">Feedback widget</a>
+-  <a href="https://feedback-widget-wine.vercel.app/" target='_blank'>Feedback widget</a>
 </br>
 </br>
 Also, check my freelance works. Nice websites built using HTML, CSS and Vanilla Javascript:
