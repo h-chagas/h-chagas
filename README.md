@@ -10,7 +10,9 @@ Features:
 -  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01">To-do list</a>
 -  <a href="https://feedback-widget-wine.vercel.app/">Feedback widget</a>
 -Also, check my freelance works. Nice websites built using HTML, CSS and Vanilla Javascript:
+</br>
 - <a href='https://www.newpioneersproject.co.uk/' target='_blank'>New Pioneers Project</a>. Application built to a special project from Rochdale Council and Rochdale Borough Housing.
+- </br>
 - <a href='https://milenamassagetherapy.co.uk/' target='_blank'>Milena Massage Therapy</a>. Application built to a massage therapist from Manchester.
 
 <!---
