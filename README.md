@@ -5,6 +5,7 @@ I’m interested in a position in the web/ software development field as Junior/
 - Access <a href='https://h-chagas.github.io/hugo-portfolio/'>my portfolio</a>
 </br>
 Features:
+</br>
 -  Access some of my front-end ReactJS projects completed in the RocketSeat academy: 
 -  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01">To-do list</a>
 -  <a href="https://feedback-widget-wine.vercel.app/">Feedback widget</a>
