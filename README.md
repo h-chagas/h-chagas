@@ -8,7 +8,9 @@ I’m interested in a position in the web/ software development field as Junior/
 </br>
 Features:
 </br>
-Access some of my front-end ReactJS projects completed in the RocketSeat academy:
+Access some of my front-end ReactJS and React Native projects completed in the RocketSeat academy:
+</br>
+-  <a href="https://github.com/h-chagas/imhere" target='_blank'>Imhere</a>
 </br>
 -  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01" target='_blank'>To-do list</a>
 </br>
