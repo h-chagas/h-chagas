@@ -1,4 +1,4 @@
-###👋 Hi, 
+### Hi, 
 ##I am Hugo Cidral das Chagas and I am a Full-stack Software Developer.
 </br>
 I am currently working for the UK Home Office.
