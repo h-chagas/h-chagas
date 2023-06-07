@@ -4,7 +4,7 @@ I’m interested in a position in the web/ software development field as Junior/
 </br>
 📫 <a href='https://wa.me/447450599950'>WhatsApp me</a> or drop me an <a href='mailto:hugochagasuk@gmail.com'>email</a>
 </br>
-- Access <a href='https://h-chagas.github.io/hugo-portfolio/'>my portfolio</a>
+- Access <a href='https://www.hugochagas.co.uk/'>my portfolio</a>
 </br>
 Features:
 </br>
