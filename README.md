@@ -14,18 +14,20 @@ Features
 Access some of my front-end (ReactJS, NextJS) projects:
 -  <a href="https://feedback-widget-wine.vercel.app/" target='_blank'>Feedback widget</a>
 </br>
-- <a href='https://milenamassagetherapy.co.uk/' target='_blank'>Milena Massage Therapy</a>. Application built to a massage therapist from Manchester.
-- </br>
+-  <a href='https://milenamassagetherapy.co.uk/' target='_blank'>Milena Massage Therapy</a>. Application built to a massage therapist from Manchester.
+</br>
+</br>
 
 Access some of my mobile (React Native) projects:
 -  <a href="https://github.com/h-chagas/imhere" target='_blank'>Imhere</a>
 </br>
 -  <a href="https://github.com/h-chagas/to-do-list-react-ignite-challenge-01" target='_blank'>To-do list</a>
 </br>
+</br>
 
 Also, check my some of my HTML, CSS and JavaScript front-end projects:
 </br>
-- <a href='https://www.newpioneersproject.co.uk/' target='_blank'>New Pioneers Project</a>. Application built to a special project from Rochdale Council and Rochdale Borough Housing.
+-  <a href='https://www.newpioneersproject.co.uk/' target='_blank'>New Pioneers Project</a>. Application built to a special project from Rochdale Council and Rochdale Borough Housing.
 </br>
 
 Finally, check my pinned projects below. I am currently learning Java :)
