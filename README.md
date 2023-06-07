@@ -13,9 +13,8 @@ Check out <a href='https://www.hugochagas.co.uk/'>my portfolio</a> built with Re
 Features
 </br>
 Access some of my front-end (ReactJS, NextJS) projects:
-* <a href="https://feedback-widget-wine.vercel.app/" target='_blank'>Feedback widget</a>
-</br>
-* <a href='https://milenamassagetherapy.co.uk/' target='_blank'>Milena Massage Therapy</a>. Application built to a massage therapist from Manchester.
+Markup : * <a href="https://feedback-widget-wine.vercel.app/" target='_blank'>Feedback widget</a>
+         * <a href='https://milenamassagetherapy.co.uk/' target='_blank'>Milena Massage Therapy</a>. Application built to a massage therapist from Manchester.
 </br>
 </br>
 
