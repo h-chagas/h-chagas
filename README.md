@@ -2,7 +2,7 @@
 ### Hugo Cidral das Chagas ###
 __Full-stack Software Developer__
 
-I am currently working for the UK Home Office :flag_united_kingdom:
+I am currently working for the UK Home Office 🇬🇧
 
 Check out my [Portfolio](https://www.hugochagas.co.uk/) built with React.
 
