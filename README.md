@@ -1,8 +1,10 @@
-### Hi, 
-## I am Hugo Cidral das Chagas and I am a Full-stack Software Developer.
-</br>
+### Hi, I am  
+## Hugo Cidral das Chagas
+Full-stack Software Developer.
+
 I am currently working for the UK Home Office.
-</br>
+
+
 📫 If you want to be part of my network, contact me by <a href='https://wa.me/447450599950'>WhatsApp</a> or drop me an <a href='mailto:hugochagasuk@gmail.com'>email</a>
 </br>
 </br>
