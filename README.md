@@ -8,12 +8,10 @@ Check out my [Portfolio](https://www.hugochagas.co.uk/) built with React.
 
 If you want to be part of my network, contact me by [Whatsapp]( https://wa.me/447450599950) or drop me an [Email](mailto:hugochagasuk@gmail.com)
 
-### Webapps ###
-
-Full-stack MERN project:
+### Full-stack project ###
 
 ```
-ReactJS
+MERN stack (MongoDB, Express, React and NodeJS)
 ```
 
 * [Front-end source code](https://github.com/h-chagas/mern-recipe-app-front-end)
