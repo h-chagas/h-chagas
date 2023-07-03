@@ -10,6 +10,19 @@ If you want to be part of my network, contact me by [Whatsapp]( https://wa.me/44
 
 ### Webapps ###
 
+Full-stack MERN project:
+
+```
+ReactJS
+```
+
+* [Front-end source code](https://github.com/h-chagas/mern-recipe-app-front-end)
+* [Back-end source code](https://github.com/h-chagas/mern-recipe-app-back-end)
+> [Deployed App](https://mern-recipe-app-zw2r.onrender.com/)
+
+
+### Webapps ###
+
 Front-end projects:
 
 ```
