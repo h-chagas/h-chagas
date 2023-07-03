@@ -51,12 +51,12 @@ React Native
 
 ### SQL ###
 
-*[Java program that carry out CRUD operations to MySQL DB](https://github.com/h-chagas/java_sql)
+* [Java program that carry out CRUD operations to MySQL DB](https://github.com/h-chagas/java_sql)
 
 
 ### Python ###
 
-*[Learning Java](https://github.com/h-chagas/python_practicing)
+* [Learning Java](https://github.com/h-chagas/python_practicing)
 
 
 And many more. Check out my [repository](https://github.com/h-chagas?tab=repositories)!
