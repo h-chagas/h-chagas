@@ -17,7 +17,7 @@ ReactJS
 ```
 
 * [Front-end source code](https://github.com/h-chagas/mern-recipe-app-front-end)
-* [Back-end source code](https://github.com/h-chagas/mern-recipe-app-back-end)
+* [Back-end source code](https://github.com/h-chagas/mern-recipe-app-back-end) \n
 ➡️ [Deployed App](https://mern-recipe-app-zw2r.onrender.com/)
 
 
