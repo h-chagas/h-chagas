@@ -2,7 +2,7 @@
 ### Hugo Cidral das Chagas ###
 __Full-stack Software Developer__
 
-I am currently working for the UK Home Office 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+I am currently working for the UK Home Office 🇬🇧
 
 Check out my [Portfolio](https://www.hugochagas.co.uk/) built with React.
 
@@ -17,7 +17,7 @@ ReactJS
 ```
 
 * [Front-end source code](https://github.com/h-chagas/mern-recipe-app-front-end)
-* [Back-end source code](https://github.com/h-chagas/mern-recipe-app-back-end) \n
+* [Back-end source code](https://github.com/h-chagas/mern-recipe-app-back-end)
 * ➡️ [Deployed App](https://mern-recipe-app-zw2r.onrender.com/)
 
 
